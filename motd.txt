@@ -1,0 +1,36 @@
+<html><head><title>Правила</title>
+<meta name="generator" content="Namo WebEditor(Trial)">
+</head><body bgcolor=black text=white> 
+
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://cs-strikez.clan.su" title="Все для Counter Strike"><img src="http://cs-strikez.clan.su/diz/motd.jpg" border="0"></a></p>
+<ul> 
+    <center> 
+        <p align="left"><b><font color=red size=+2>&nbsp;&nbsp;&nbsp;&nbsp;Правила:</font></b></p>
+    </center>
+<font face="Trebuchet MS">                    <ul>
+        <li>
+            <div align="left"><font color=red><b>НЕ</b></font> использовать читы, скрипты, т.п.... (<font color=red><b>МЫ БАНИМ ВАС И ЛОМАЕМ КС</b>!!</font> )
+            </div>
+<li>
+            <div align="left"><font color=red><b>НЕ</b></font> матерится. 
+
+            </div>
+<li>
+            <div align="left"><font color=red><b>НЕ</b></font> убивать своих. 
+            </div>
+<li>
+            <div align="left"><font color=red><b>НЕ</b></font> использовать ники других игроков. 
+            </div>
+<li>
+            <div align="left"><font color=red><b>НЕ</b></font> кемперить.
+<br>  
+            </div>
+</li>
+        <li>
+            <div align="left"><font face="Trebuchet MS">                <b><font color=red size=+2>И самое главное правило:</font></b></font></div>
+        </li>
+        <li>
+            <div align="left"><font face="Trebuchet MS">                <b><font color=red size=+2>Админ всегда прав!</b></font></div>
+        </li>
+    </ul>
+</font>

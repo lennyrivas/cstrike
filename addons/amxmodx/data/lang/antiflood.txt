@@ -1,0 +1,5 @@
+[ru]
+STOP_FLOOD = Слышь бич! Харош флудить! Чат не резиновый!!
+
+[en]
+STOP_FLOOD = Stop flooding the server!

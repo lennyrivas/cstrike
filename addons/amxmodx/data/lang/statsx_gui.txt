@@ -1,0 +1,49 @@
+[en]
+HTML_TOP_BODY = <META http-equiv=Content-Type content='text/html ;charset=UTF-8'><STYLE>body{background:#242424;color:#cfcbc2;margin:20px}table{width:100%%;line-height:160%%;font-size:12px}.h{background:#2e3033;color:#c4b550;font-weight:bold}.a{background:#4a4945}.b{background:#3b3b37}</STYLE><b><font size=4>%s</b><p></p><center><table bgcolor=#4a4945><tr><td><center><table cellspacing=0>
+HTML_TOP_HEADER = <tr class=h><td>#<td>Nick<td>Kills<td>Deaths<td>Hits<td>Shots<td>HS<td>Eff<td>Acc
+HTML_TOP_TABLE = <tr class=%s><td>%d<td>%s<td>%d<td>%d<td>%d<td>%d<td>%d<td>%3.0f%%<td>%3.0f%%
+HTML_BOT_TOP = Top 10 bots
+HTML_PLAYER_TOP = Top 10 players
+HTML_CLOSE = </table>
+HTML_RANK_BODY = <META http-equiv=Content-Type content='text/html ;charset=UTF-8'><STYLE>body{background:#242424;color:#cfcbc2;margin:20px}table{width:100%%;line-height:160%%;font-size:12px}.h{background:#2e3033;color:#c4b550;font-weight:bold}.a{background:#4a4945}.b{background:#3b3b37}</STYLE><b><font size=4>Rank stats</b><p></p><table><tr><td width=48%% bgcolor=#4a4945><table cellspacing=0><tr class=h><td colspan=2>
+HTML_RANK_IS = %s rank is %d of %d^n^n
+HTML_YOU = You
+HTML_PLAYER = Player
+HTML_RANK_HEADER = <tr class=a><td>Kills<td>%d (HS: %d)<tr class=b><td>Deaths<td>%d<tr class=a><td>Hits<td>%d<tr class=b><td>Shots<td>%d<tr class=a><td>Damage<td>%d<tr class=b><td>Eff<td>%0.2f%%<tr class=a><td>Acc<td>%0.2f%%</table></td><td width=4%%></td><td width=48%% bgcolor=#24281d><table cellspacing=0><tr class=h><td colspan=2>Hits stats
+HTML_RANK_TABLE = <tr class=%s><td>%s<td>%d
+HTML_STATS_BODY = <META http-equiv=Content-Type content='text/html ;charset=UTF-8'><STYLE>body{background:#242424;color:#cfcbc2;margin:20px}table{line-height:160%%;font-size:12px}.h{background:#2e3033;color:#c4b550;font-weight:bold}.a{background:#4a4945}.b{background:#3b3b37}</STYLE><b><font size=4>Stats me</b><p></p><table bgcolor=#4a4945><tr><td width=20%%><table cellspacing=0 width=100%%><tr class=h><td colspan=2>Stats
+HTML_STATS_HEADER1 = <tr class=a><td>Kills<td>%d (HS: %d)<tr class=b><td>Deaths<td>%d<tr class=a><td>Hits<td>%d<tr class=b><td>Shots<td>%d<tr class=a><td>Damage<td>%d<tr class=b><td>Eff<td>%0.2f%%<tr class=a><td>Acc<td>%0.2f%%
+HTML_STATS_HEADER2 = </table></td><td bgcolor=#232323></td><td valign=top width=80%%><table cellspacing=0 width=100%%><tr class=h><td>Weapon<td>Kills<td>Deaths<td>Hits<td>Shots<td>Damage<td>Acc
+HTML_STATS_TABLE = <tr class=%s><td>%s<td>%d<td>%d<td>%d<td>%d<td>%d<td>%3.0f%%
+IN_HEAD = Head
+IN_CHEST = Chest
+IN_STOMACH = Stomach
+IN_LARM = Left arm
+IN_RARM = Right arm
+IN_LLEG = Left leg
+IN_RLEG = Right leg
+
+[ru]
+HTML_TOP_BODY = <META http-equiv=Content-Type content='text/html ;charset=UTF-8'><STYLE>body{background:#242424;color:#cfcbc2;margin:20px}table{width:100%%;line-height:160%%;font-size:12px}.h{background:#2e3033;color:#c4b550;font-weight:bold}.a{background:#4a4945}.b{background:#3b3b37}</STYLE><b><font size=4>%s</b><p></p><center><table bgcolor=#4a4945><tr><td><center><table cellspacing=0>
+HTML_TOP_HEADER = <tr class=h><td>#<td>Nick<td>Kills<td>Смертей<td>Hits<td>Попаданий<td>В голову<td>Эфф<td>Акк
+HTML_TOP_TABLE = <tr class=%s><td>%d<td>%s<td>%d<td>%d<td>%d<td>%d<td>%d<td>%3.0f%%<td>%3.0f%%
+HTML_BOT_TOP = Топ 10-и ботов
+HTML_PLAYER_TOP = Топ 10-и игроков
+HTML_CLOSE = </table>
+HTML_RANK_BODY = <META http-equiv=Content-Type content='text/html ;charset=UTF-8'><STYLE>body{background:#242424;color:#cfcbc2;margin:20px}table{width:100%%;line-height:160%%;font-size:12px}.h{background:#2e3033;color:#c4b550;font-weight:bold}.a{background:#4a4945}.b{background:#3b3b37}</STYLE><b><font size=4>Rank stats</b><p></p><table><tr><td width=48%% bgcolor=#4a4945><table cellspacing=0><tr class=h><td colspan=2>
+HTML_RANK_IS = %s на %d-ом месте из %d^n^n
+HTML_YOU = Вы
+HTML_PLAYER = Игрок
+HTML_RANK_HEADER = <tr class=a><td>Убито<td>%d (В голову: %d)<tr class=b><td>Deaths<td>%d<tr class=a><td>Попаданий<td>%d<tr class=b><td>Выстрелов<td>%d<tr class=a><td>Общий урон<td>%d<tr class=b><td>Эффективность<td>%0.2f%%<tr class=a><td>Точность<td>%0.2f%%</table></td><td width=4%%></td><td width=48%% bgcolor=#24281d><table cellspacing=0><tr class=h><td colspan=2>Статистика попаданий
+HTML_RANK_TABLE = <tr class=%s><td>%s<td>%d
+HTML_STATS_BODY = <META http-equiv=Content-Type content='text/html ;charset=UTF-8'><STYLE>body{background:#242424;color:#cfcbc2;margin:20px}table{line-height:160%%;font-size:12px}.h{background:#2e3033;color:#c4b550;font-weight:bold}.a{background:#4a4945}.b{background:#3b3b37}</STYLE><b><font size=4>Stats me</b><p></p><table bgcolor=#4a4945><tr><td width=20%%><table cellspacing=0 width=100%%><tr class=h><td colspan=2>Статистика
+HTML_STATS_HEADER1 = <tr class=a><td>Убито<td>%d (В голову: %d)<tr class=b><td>Смертей<td>%d<tr class=a><td>Попаданий<td>%d<tr class=b><td>Выстрелов<td>%d<tr class=a><td>Урон<td>%d<tr class=b><td>Эффективность<td>%0.2f%%<tr class=a><td>Точность<td>%0.2f%%
+HTML_STATS_HEADER2 = </table></td><td bgcolor=#232323></td><td valign=top width=80%%><table cellspacing=0 width=100%%><tr class=h><td>Оружие<td>Убито<td>Смертей<td>Попаданий<td>Выстрелов<td>Урон<td>Акк
+HTML_STATS_TABLE = <tr class=%s><td>%s<td>%d<td>%d<td>%d<td>%d<td>%d<td>%3.0f%%
+IN_HEAD = В голову
+IN_CHEST = В грудь
+IN_STOMACH = В живот
+IN_LARM = В левую руку
+IN_RARM = В правую руку
+IN_LLEG = В левую ногу
+IN_RLEG = В правую ногу

@@ -1,0 +1,37 @@
+[ru]
+LOADED_ADMIN = Загружен 1 админ из файла
+LOADED_ADMINS = Загружен список из %d админов из файла
+SQL_CANT_CON = Ошибка SQL! - Невозможно соединится с базой данных "%s"
+SQL_CANT_LOAD_ADMINS = Ошибка SQL! - Невозможно загрузить список админов из "%s"
+NO_ADMINS = Не найдено ни одного админа
+SQL_LOADED_ADMIN = Загружен 1 админ из базы данных
+SQL_LOADED_ADMINS = Загружен список из %d админов из базы данных
+INV_PAS = Неверный пароль!
+PAS_ACC = Пароль принят!
+PRIV_SET = Права доступа предоставлены!
+NO_ENTRY =  Вы не имеете права входа на этот сервер...
+INCORRECT_TYPE = [%s] незвестный тип ^"%s^"! Допустимые типы: steamid, ip, name
+NO_FILE = [%s] Файл ^"%s^" не существует!
+ADMIN_EXISTS = [%s] %s уже существует!
+ADDING = Добавлен в users.ini:^n%s
+ADDING_DATABASE = Добавлен в базу данных:^n^"%s^" ^"%s^" ^"%s^" ^"%s^"
+FAILED_WRITE = [%s] Ошибка записи в ^"%s^"!
+
+[en]
+LOADED_ADMIN = Loaded 1 admin from file
+LOADED_ADMINS = Loaded %d admins from file
+SQL_CANT_CON = SQL error: can't connect: '%s'
+SQL_CANT_LOAD_ADMINS = SQL error: can't load admins: '%s'
+NO_ADMINS = No admins found.
+SQL_LOADED_ADMIN = Loaded 1 admin from database
+SQL_LOADED_ADMINS = Loaded %d admins from database
+INV_PAS = Invalid Password!
+PAS_ACC = Password accepted
+PRIV_SET = Privileges set
+NO_ENTRY = You have no entry to the server...
+INCORRECT_TYPE = [%s] incorrect type ^"%s^"! Use only this types: steamid, ip, name
+NO_FILE = [%s] Файл ^"%s^" doesnt exist!
+ADMIN_EXISTS = [%s] %s already exist!
+ADDING = Added 2 users.ini:^n%s
+ADDING_DATABASE = Added ro database:^n^"%s^" ^"%s^" ^"%s^" ^"%s^"
+FAILED_WRITE = [%s] Faild 2 write in ^"%s^"!

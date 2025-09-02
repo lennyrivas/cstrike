@@ -1,0 +1,462 @@
+L 08/24/2025 - 00:07:01: Log file started (file "cstrike\addons\amxmodx\logs\dmaplog0824.log") (game "cstrike") (amx "1.8.1.3746")
+L 08/24/2025 - 00:07:01: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 00:07:01: Loaded 15 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 00:07:01: 5 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 00:07:01: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 15 are available for filling slots
+L 08/24/2025 - 00:26:13: Nominations for the map vote: 0 out of 5 possible nominations
+L 08/24/2025 - 00:26:13: Randomly Filling slots for the vote with 5 out of 15
+L 08/24/2025 - 00:26:13: Filled 5 vote slots with random maps, 5 are custom
+L 08/24/2025 - 00:26:13: Vote: Voting for the nextmap started
+L 08/24/2025 - 00:26:34: Vote: Voting for the nextmap finished. The nextmap will be aim_deagle5
+L 08/24/2025 - 00:27:18: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 00:27:18: Loaded 15 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 00:27:18: 5 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 00:27:19: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 15 are available for filling slots
+L 08/24/2025 - 00:31:55: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 00:31:55: Loaded 15 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 00:31:55: 5 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 00:31:55: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 15 are available for filling slots
+L 08/24/2025 - 00:32:30: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 00:32:30: Loaded 16 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 00:32:30: 4 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 00:32:30: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 16 are available for filling slots
+L 08/24/2025 - 00:43:17: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 00:43:17: Loaded 17 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 00:43:17: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 00:43:17: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 17 are available for filling slots
+L 08/24/2025 - 00:50:08: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 00:50:08: Loaded 18 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 00:50:08: 2 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 00:50:08: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 18 are available for filling slots
+L 08/24/2025 - 01:02:23: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 01:02:23: Loaded 19 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 01:02:23: 1 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 01:02:23: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 19 are available for filling slots
+L 08/24/2025 - 01:04:30: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 01:04:30: Loaded 18 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 01:04:30: 2 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 01:04:30: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 18 are available for filling slots
+L 08/24/2025 - 01:04:48: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 01:04:48: Loaded 17 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 01:04:48: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 01:04:48: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 17 are available for filling slots
+L 08/24/2025 - 01:25:59: Nominations for the map vote: 0 out of 5 possible nominations
+L 08/24/2025 - 01:25:59: Randomly Filling slots for the vote with 5 out of 17
+L 08/24/2025 - 01:25:59: Filled 5 vote slots with random maps, 5 are custom
+L 08/24/2025 - 01:25:59: Vote: Voting for the nextmap started
+L 08/24/2025 - 01:26:19: Vote: Voting for the nextmap finished. The nextmap will be aim_headshot
+L 08/24/2025 - 01:26:51: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 01:26:51: Loaded 16 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 01:26:51: 4 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 01:26:51: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 16 are available for filling slots
+L 08/24/2025 - 01:45:40: Nominations for the map vote: 0 out of 5 possible nominations
+L 08/24/2025 - 01:45:40: Randomly Filling slots for the vote with 5 out of 16
+L 08/24/2025 - 01:45:40: Filled 5 vote slots with random maps, 5 are custom
+L 08/24/2025 - 01:45:40: Vote: Voting for the nextmap started
+L 08/24/2025 - 01:46:01: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 01:46:01: Loaded 15 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 01:46:01: 5 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 01:46:01: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 15 are available for filling slots
+L 08/24/2025 - 02:03:43: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 02:03:43: Loaded 15 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 02:03:43: 5 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 02:03:43: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 15 are available for filling slots
+L 08/24/2025 - 02:16:30: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 02:16:30: Loaded 15 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 02:16:30: 5 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 02:16:30: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 15 are available for filling slots
+L 08/24/2025 - 02:45:19: Nominations for the map vote: 0 out of 5 possible nominations
+L 08/24/2025 - 02:45:19: Randomly Filling slots for the vote with 5 out of 15
+L 08/24/2025 - 02:45:19: Filled 5 vote slots with random maps, 5 are custom
+L 08/24/2025 - 02:45:19: Vote: Voting for the nextmap started
+L 08/24/2025 - 02:45:39: Vote: Voting for the nextmap finished. The nextmap will be de_dust2_2x2
+L 08/24/2025 - 02:46:07: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 02:46:07: Loaded 15 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 02:46:07: 5 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 02:46:07: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 15 are available for filling slots
+L 08/24/2025 - 03:04:56: Nominations for the map vote: 0 out of 5 possible nominations
+L 08/24/2025 - 03:04:56: Randomly Filling slots for the vote with 5 out of 15
+L 08/24/2025 - 03:04:56: Filled 5 vote slots with random maps, 4 are custom
+L 08/24/2025 - 03:04:56: Vote: Voting for the nextmap started
+L 08/24/2025 - 03:05:16: Vote: Voting for the nextmap finished. The nextmap will be fy_snow
+L 08/24/2025 - 03:05:40: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 03:05:40: Loaded 15 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 03:05:40: 5 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 03:05:40: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 15 are available for filling slots
+L 08/24/2025 - 03:24:35: Nominations for the map vote: 0 out of 5 possible nominations
+L 08/24/2025 - 03:24:35: Randomly Filling slots for the vote with 5 out of 15
+L 08/24/2025 - 03:24:35: Filled 5 vote slots with random maps, 5 are custom
+L 08/24/2025 - 03:24:35: Vote: Voting for the nextmap started
+L 08/24/2025 - 03:24:55: Vote: Voting for the nextmap finished. Map fy_snow will be extended to next 15. minutes
+L 08/24/2025 - 03:40:03: Nominations for the map vote: 0 out of 5 possible nominations
+L 08/24/2025 - 03:40:03: Randomly Filling slots for the vote with 5 out of 15
+L 08/24/2025 - 03:40:03: Filled 5 vote slots with random maps, 5 are custom
+L 08/24/2025 - 03:40:03: Vote: Voting for the nextmap started
+L 08/24/2025 - 03:40:23: Vote: Voting for the nextmap finished. Map fy_snow will be extended to next 15. minutes
+L 08/24/2025 - 03:51:58: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 03:51:58: Loaded 15 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 03:51:58: 5 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 03:51:58: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 15 are available for filling slots
+L 08/24/2025 - 04:11:09: Nominations for the map vote: 0 out of 5 possible nominations
+L 08/24/2025 - 04:11:09: Randomly Filling slots for the vote with 5 out of 15
+L 08/24/2025 - 04:11:09: Filled 5 vote slots with random maps, 5 are custom
+L 08/24/2025 - 04:11:09: Vote: Voting for the nextmap started
+L 08/24/2025 - 04:11:29: Vote: Voting for the nextmap finished. The nextmap will be aim_headshot
+L 08/24/2025 - 04:11:59: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 04:11:59: Loaded 15 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 04:11:59: 5 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 04:11:59: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 15 are available for filling slots
+L 08/24/2025 - 04:30:48: Nominations for the map vote: 0 out of 5 possible nominations
+L 08/24/2025 - 04:30:48: Randomly Filling slots for the vote with 5 out of 15
+L 08/24/2025 - 04:30:48: Filled 5 vote slots with random maps, 5 are custom
+L 08/24/2025 - 04:30:48: Vote: Voting for the nextmap started
+L 08/24/2025 - 04:31:08: Vote: Voting for the nextmap finished. The nextmap will be aim_ak-colt2
+L 08/24/2025 - 04:31:33: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 04:31:33: Loaded 15 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 04:31:33: 5 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 04:31:33: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 15 are available for filling slots
+L 08/24/2025 - 04:50:46: Nominations for the map vote: 0 out of 5 possible nominations
+L 08/24/2025 - 04:50:46: Randomly Filling slots for the vote with 5 out of 15
+L 08/24/2025 - 04:50:46: Filled 5 vote slots with random maps, 4 are custom
+L 08/24/2025 - 04:50:46: Vote: Voting for the nextmap started
+L 08/24/2025 - 04:51:06: Vote: Voting for the nextmap finished. Map aim_ak-colt2 will be extended to next 15. minutes
+L 08/24/2025 - 05:05:46: Nominations for the map vote: 0 out of 5 possible nominations
+L 08/24/2025 - 05:05:46: Randomly Filling slots for the vote with 5 out of 15
+L 08/24/2025 - 05:05:46: Filled 5 vote slots with random maps, 4 are custom
+L 08/24/2025 - 05:05:46: Vote: Voting for the nextmap started
+L 08/24/2025 - 05:06:06: Vote: Voting for the nextmap finished. The nextmap will be awp_dust
+L 08/24/2025 - 05:06:38: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 05:06:38: Loaded 15 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 05:06:38: 5 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 05:06:38: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 15 are available for filling slots
+L 08/24/2025 - 12:49:29: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 12:49:29: Loaded 15 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 12:49:29: 5 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 12:49:29: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 15 are available for filling slots
+L 08/24/2025 - 13:06:11: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 13:06:11: Loaded 15 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 13:06:11: 5 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 13:06:11: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 15 are available for filling slots
+L 08/24/2025 - 13:06:31: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 13:06:31: Loaded 15 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 13:06:31: 5 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 13:06:31: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 15 are available for filling slots
+L 08/24/2025 - 13:07:21: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 13:07:21: Loaded 16 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 13:07:21: 4 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 13:07:21: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 16 are available for filling slots
+L 08/24/2025 - 13:16:41: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 13:16:41: Loaded 17 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 13:16:41: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 13:16:41: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 17 are available for filling slots
+L 08/24/2025 - 13:17:00: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 13:17:00: Loaded 17 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 13:17:00: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 13:17:00: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 17 are available for filling slots
+L 08/24/2025 - 13:35:12: Nominations for the map vote: 0 out of 5 possible nominations
+L 08/24/2025 - 13:35:12: Randomly Filling slots for the vote with 5 out of 17
+L 08/24/2025 - 13:35:12: Filled 5 vote slots with random maps, 5 are custom
+L 08/24/2025 - 13:35:12: Vote: Voting for the nextmap started
+L 08/24/2025 - 13:35:32: Vote: Voting for the nextmap finished. The nextmap will be 35hp_2
+L 08/24/2025 - 13:36:06: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 13:36:06: Loaded 17 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 13:36:06: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 13:36:06: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 17 are available for filling slots
+L 08/24/2025 - 13:54:18: Nominations for the map vote: 0 out of 5 possible nominations
+L 08/24/2025 - 13:54:18: Randomly Filling slots for the vote with 5 out of 17
+L 08/24/2025 - 13:54:18: Filled 5 vote slots with random maps, 5 are custom
+L 08/24/2025 - 13:54:18: Vote: Voting for the nextmap started
+L 08/24/2025 - 13:54:38: Vote: Voting for the nextmap finished. The nextmap will be aim_ak-colt2
+L 08/24/2025 - 13:55:12: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 13:55:12: Loaded 17 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 13:55:12: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 13:55:12: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 17 are available for filling slots
+L 08/24/2025 - 14:12:01: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 14:12:01: Loaded 17 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 14:12:01: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 14:12:01: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 17 are available for filling slots
+L 08/24/2025 - 14:12:33: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 14:12:33: Loaded 17 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 14:12:33: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 14:12:33: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 17 are available for filling slots
+L 08/24/2025 - 14:29:29: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 14:29:29: Loaded 17 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 14:29:29: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 14:29:29: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 17 are available for filling slots
+L 08/24/2025 - 14:48:03: Nominations for the map vote: 0 out of 5 possible nominations
+L 08/24/2025 - 14:48:03: Randomly Filling slots for the vote with 5 out of 17
+L 08/24/2025 - 14:48:03: Filled 5 vote slots with random maps, 4 are custom
+L 08/24/2025 - 14:48:03: Vote: Voting for the nextmap started
+L 08/24/2025 - 14:48:23: Vote: Voting for the nextmap finished. The nextmap will be aim_deagle5
+L 08/24/2025 - 14:48:45: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 14:48:45: Loaded 17 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 14:48:45: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 14:48:45: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 17 are available for filling slots
+L 08/24/2025 - 14:57:39: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 14:57:39: Loaded 17 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 14:57:39: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 14:57:39: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 17 are available for filling slots
+L 08/24/2025 - 14:57:58: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 14:57:58: Loaded 17 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 14:57:58: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 14:57:58: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 17 are available for filling slots
+L 08/24/2025 - 14:59:14: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 14:59:14: Loaded 16 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 14:59:14: 4 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 14:59:14: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 16 are available for filling slots
+L 08/24/2025 - 14:59:58: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 14:59:58: Loaded 17 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 14:59:58: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 14:59:58: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 17 are available for filling slots
+L 08/24/2025 - 15:03:38: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 15:03:38: Loaded 17 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 15:03:38: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 15:03:38: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 17 are available for filling slots
+L 08/24/2025 - 15:21:50: Nominations for the map vote: 0 out of 5 possible nominations
+L 08/24/2025 - 15:21:50: Randomly Filling slots for the vote with 5 out of 17
+L 08/24/2025 - 15:21:50: Filled 5 vote slots with random maps, 5 are custom
+L 08/24/2025 - 15:21:50: Vote: Voting for the nextmap started
+L 08/24/2025 - 15:22:10: Vote: Voting for the nextmap finished. The nextmap will be aim_deagle5
+L 08/24/2025 - 15:22:51: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 15:22:51: Loaded 17 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 15:22:51: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 15:22:51: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 17 are available for filling slots
+L 08/24/2025 - 15:41:04: Nominations for the map vote: 0 out of 5 possible nominations
+L 08/24/2025 - 15:41:04: Randomly Filling slots for the vote with 5 out of 17
+L 08/24/2025 - 15:41:04: Filled 5 vote slots with random maps, 5 are custom
+L 08/24/2025 - 15:41:04: Vote: Voting for the nextmap started
+L 08/24/2025 - 15:41:24: Vote: Voting for the nextmap finished. The nextmap will be awp_india
+L 08/24/2025 - 15:41:58: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 15:41:58: Loaded 17 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 15:41:58: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 15:41:58: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 17 are available for filling slots
+L 08/24/2025 - 15:45:08: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 15:45:08: Loaded 17 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 15:45:08: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 15:45:08: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 17 are available for filling slots
+L 08/24/2025 - 15:46:13: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 15:46:13: Loaded 16 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 15:46:13: 4 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 15:46:13: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 16 are available for filling slots
+L 08/24/2025 - 15:46:52: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 15:46:52: Loaded 16 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 15:46:52: 4 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 15:46:52: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 16 are available for filling slots
+L 08/24/2025 - 16:05:05: Nominations for the map vote: 0 out of 5 possible nominations
+L 08/24/2025 - 16:05:05: Randomly Filling slots for the vote with 5 out of 16
+L 08/24/2025 - 16:05:05: Filled 5 vote slots with random maps, 5 are custom
+L 08/24/2025 - 16:05:05: Vote: Voting for the nextmap started
+L 08/24/2025 - 16:05:25: Vote: Voting for the nextmap finished. The nextmap will be de_dust2_2x2
+L 08/24/2025 - 16:06:06: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 16:06:06: Loaded 16 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 16:06:06: 4 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 16:06:06: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 16 are available for filling slots
+L 08/24/2025 - 16:22:25: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 16:22:25: Loaded 16 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 16:22:25: 4 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 16:22:25: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 16 are available for filling slots
+L 08/24/2025 - 16:24:28: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 16:24:28: Loaded 17 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 16:24:28: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 16:24:28: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 17 are available for filling slots
+L 08/24/2025 - 16:26:04: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 16:26:04: Loaded 18 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 16:26:04: 2 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 16:26:04: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 18 are available for filling slots
+L 08/24/2025 - 16:44:18: Nominations for the map vote: 0 out of 5 possible nominations
+L 08/24/2025 - 16:44:18: Randomly Filling slots for the vote with 5 out of 18
+L 08/24/2025 - 16:44:18: Filled 5 vote slots with random maps, 5 are custom
+L 08/24/2025 - 16:44:18: Vote: Voting for the nextmap started
+L 08/24/2025 - 16:44:38: Vote: Voting for the nextmap finished. The nextmap will be de_dust2_2x2
+L 08/24/2025 - 16:45:19: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 16:45:19: Loaded 18 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 16:45:19: 2 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 16:45:19: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 18 are available for filling slots
+L 08/24/2025 - 16:56:13: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 16:56:14: Loaded 18 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 16:56:14: 2 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 16:56:14: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 18 are available for filling slots
+L 08/24/2025 - 17:15:04: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 17:15:04: Loaded 18 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 17:15:04: 2 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 17:15:04: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 18 are available for filling slots
+L 08/24/2025 - 17:18:04: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 17:18:04: Loaded 18 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 17:18:04: 2 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 17:18:04: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 18 are available for filling slots
+L 08/24/2025 - 17:18:23: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 17:18:23: Loaded 18 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 17:18:23: 2 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 17:18:23: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 18 are available for filling slots
+L 08/24/2025 - 17:36:36: Nominations for the map vote: 0 out of 5 possible nominations
+L 08/24/2025 - 17:36:36: Randomly Filling slots for the vote with 5 out of 18
+L 08/24/2025 - 17:36:36: Filled 5 vote slots with random maps, 5 are custom
+L 08/24/2025 - 17:36:36: Vote: Voting for the nextmap started
+L 08/24/2025 - 17:36:56: Vote: Voting for the nextmap finished. The nextmap will be $1000$
+L 08/24/2025 - 17:37:37: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 17:37:37: Loaded 17 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 17:37:37: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 17:37:37: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 17 are available for filling slots
+L 08/24/2025 - 17:58:32: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 17:58:32: Loaded 17 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 17:58:32: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 17:58:32: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 17 are available for filling slots
+L 08/24/2025 - 17:59:35: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 17:59:35: Loaded 17 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 17:59:35: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 17:59:35: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 17 are available for filling slots
+L 08/24/2025 - 18:00:09: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 18:00:09: Loaded 16 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 18:00:09: 4 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 18:00:09: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 16 are available for filling slots
+L 08/24/2025 - 18:05:53: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 18:05:53: Loaded 17 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 18:05:53: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 18:05:53: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 17 are available for filling slots
+L 08/24/2025 - 18:24:20: Nominations for the map vote: 0 out of 5 possible nominations
+L 08/24/2025 - 18:24:20: Randomly Filling slots for the vote with 5 out of 17
+L 08/24/2025 - 18:24:20: Filled 5 vote slots with random maps, 5 are custom
+L 08/24/2025 - 18:24:20: Vote: Voting for the nextmap started
+L 08/24/2025 - 18:24:40: Vote: Voting for the nextmap finished. The nextmap will be cs_mansion
+L 08/24/2025 - 18:25:13: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 18:25:13: Loaded 16 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 18:25:13: 4 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 18:25:13: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 16 are available for filling slots
+L 08/24/2025 - 18:39:54: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 18:39:54: Loaded 16 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 18:39:54: 4 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 18:39:54: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 16 are available for filling slots
+L 08/24/2025 - 18:45:41: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 18:45:41: Loaded 16 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 18:45:41: 4 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 18:45:42: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 16 are available for filling slots
+L 08/24/2025 - 18:47:41: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 18:47:41: Loaded 16 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 18:47:41: 4 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 18:47:41: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 16 are available for filling slots
+L 08/24/2025 - 18:48:23: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 18:48:23: Loaded 16 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 18:48:23: 4 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 18:48:23: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 16 are available for filling slots
+L 08/24/2025 - 18:58:35: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 18:58:35: Loaded 17 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 18:58:35: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 18:58:35: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 17 are available for filling slots
+L 08/24/2025 - 19:03:33: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 19:03:33: Loaded 17 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 19:03:33: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 19:03:33: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 17 are available for filling slots
+L 08/24/2025 - 19:07:34: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 19:07:34: Loaded 17 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 19:07:34: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 19:07:34: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 17 are available for filling slots
+L 08/24/2025 - 19:30:43: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 19:30:43: Loaded 18 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 19:30:43: 2 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 19:30:43: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 18 are available for filling slots
+L 08/24/2025 - 19:37:17: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 19:37:17: Loaded 19 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 19:37:17: 1 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 19:37:17: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 19 are available for filling slots
+L 08/24/2025 - 19:43:26: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 19:43:26: Loaded 19 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 19:43:26: 1 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 19:43:26: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 19 are available for filling slots
+L 08/24/2025 - 19:44:26: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 19:44:26: Loaded 18 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 19:44:26: 2 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 19:44:26: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 18 are available for filling slots
+L 08/24/2025 - 19:47:22: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 19:47:22: Loaded 18 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 19:47:22: 2 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 19:47:22: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 18 are available for filling slots
+L 08/24/2025 - 19:50:12: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 19:50:12: Loaded 18 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 19:50:12: 2 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 19:50:12: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 18 are available for filling slots
+L 08/24/2025 - 20:00:24: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 20:00:24: Loaded 18 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 20:00:24: 2 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 20:00:24: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 18 are available for filling slots
+L 08/24/2025 - 21:27:06: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 21:27:06: Loaded 18 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 21:27:06: 2 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 21:27:06: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 18 are available for filling slots
+L 08/24/2025 - 21:28:00: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 21:28:00: Loaded 18 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 21:28:00: 2 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 21:28:00: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 18 are available for filling slots
+L 08/24/2025 - 21:28:54: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 21:28:54: Loaded 18 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 21:28:54: 2 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 21:28:54: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 18 are available for filling slots
+L 08/24/2025 - 21:31:06: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 21:31:06: Loaded 17 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 21:31:06: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 21:31:06: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 17 are available for filling slots
+L 08/24/2025 - 21:41:37: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 21:41:37: Loaded 18 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 21:41:37: 2 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 21:41:37: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 18 are available for filling slots
+L 08/24/2025 - 21:46:23: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 21:46:23: Loaded 18 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 21:46:23: 2 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 21:46:23: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 18 are available for filling slots
+L 08/24/2025 - 22:24:01: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 22:24:01: Loaded 18 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 22:24:01: 2 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 22:24:01: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 18 are available for filling slots
+L 08/24/2025 - 22:24:52: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 22:24:52: Loaded 18 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 22:24:52: 2 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 22:24:52: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 18 are available for filling slots
+L 08/24/2025 - 22:27:39: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 22:27:39: Loaded 19 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 22:27:39: 1 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 22:27:39: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 19 are available for filling slots
+L 08/24/2025 - 22:46:54: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 22:46:54: Loaded 19 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 22:46:54: 1 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 22:46:54: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 19 are available for filling slots
+L 08/24/2025 - 22:48:10: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 22:48:10: Loaded 19 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 22:48:10: 1 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 22:48:10: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 19 are available for filling slots
+L 08/24/2025 - 22:48:51: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 22:48:51: Loaded 19 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 22:48:51: 1 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 22:48:51: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 19 are available for filling slots
+L 08/24/2025 - 23:00:18: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 23:00:18: Loaded 18 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 23:00:18: 2 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 23:00:18: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 18 are available for filling slots
+L 08/24/2025 - 23:02:14: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 23:02:14: Loaded 18 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 23:02:14: 2 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 23:02:14: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 18 are available for filling slots
+L 08/24/2025 - 23:02:56: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 23:02:56: Loaded 18 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 23:02:56: 2 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 23:02:56: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 18 are available for filling slots
+L 08/24/2025 - 23:04:59: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 23:04:59: Loaded 18 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 23:04:59: 2 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 23:04:59: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 18 are available for filling slots
+L 08/24/2025 - 23:05:15: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 23:05:15: Loaded 18 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 23:05:15: 2 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 23:05:15: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 18 are available for filling slots
+L 08/24/2025 - 23:05:54: Did not ban any maps from mapstoban.ini file
+L 08/24/2025 - 23:05:54: Loaded 19 Maps into the maps that will be picked for the vote
+L 08/24/2025 - 23:05:54: 1 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 08/24/2025 - 23:05:54: Found 20 Maps in your mapcycle.txt/allmaps.txt file, 19 are available for filling slots
+L 08/24/2025 - 23:54:52: Nominations for the map vote: 0 out of 5 possible nominations
+L 08/24/2025 - 23:54:52: Randomly Filling slots for the vote with 5 out of 19
+L 08/24/2025 - 23:54:52: Filled 5 vote slots with random maps, 5 are custom
+L 08/24/2025 - 23:54:52: Vote: Voting for the nextmap started
+L 08/24/2025 - 23:55:12: Vote: Voting for the nextmap finished. Map cs_assault will be extended to next 15. minutes
+L 08/25/2025 - 00:10:06: Nominations for the map vote: 0 out of 5 possible nominations
+L 08/25/2025 - 00:10:06: Randomly Filling slots for the vote with 5 out of 19
+L 08/25/2025 - 00:10:06: Filled 5 vote slots with random maps, 5 are custom
+L 08/25/2025 - 00:10:06: Vote: Voting for the nextmap started
+L 08/25/2025 - 00:10:26: Vote: Voting for the nextmap finished. The nextmap will be awp_dust

@@ -1,0 +1,251 @@
+# Polish version Translated by 
+# Zipper < Zipper@inetia.pl >
+# komentarze mile widziane
+#
+# All Bot Chat Messages are stored here
+# All comments start with a "#" char
+# You can write as much comments as you like, but
+# please avoid using tabs, whitespaces and blank lines
+# (they will be parsed out but you never know!)
+# Also be sure that a Line doesn't exceed 80 chars
+# (including carriage return)
+#
+# Messages for each Type of Chat begin with a marker
+# enclosed in []
+# Marker Types:
+# [BOMBPLANT] Holds the Messages for the Counter Terrorists
+#	      if a Bomb got planted
+# [KILLED]    Bots say this Message if they killed somebody
+# [DEADCHAT]  Bots say these Lines if they are dead and in
+#	      Spectator Mode
+#
+# Maybe more Message types will be added in the future...
+#
+#
+#
+#
+# Counter Messages for Bomb planted:
+# Minimum Number is 1
+#
+
+[BOMBPLANT]
+
+Jebane gowno! Znowu jebana bomba!
+Rozpierdolcie cos normalnego, wy gowniane mendy!
+Nie wierze, ze znowu to pierdolone gowno musze rozbrajac…
+Kurwa, czerwony czy jebany niebieski kabel? Gdzie ja mam oczy?!
+Spierdalam stad, zanim jebnie! :)
+Kurwa, jebana bomba, zaraz jebnie mi w ryj!
+…i moje serce jebnelo na milion kurwoboomow!
+#
+#
+#
+#
+#
+#
+# Messages after killing somebody:
+# Minimum Number is 1
+# For the %v the name of the victim will
+# be inserted
+#
+
+[KILLED]
+
+%v, Jestes zbyt cienki !
+Sory, %v. Wszedles mi w droge.
+Niezle latasz, %v.
+Gdzie ty masz oczy %v ?!?!
+Powiedz czesc mojemu malemu przyjacielowi, %v :)
+Musialem to zrobic, %v. Rozumiesz?
+Trzeba bylo uciekac poki jeszcze mogles, %v.
+Zawsze bylem lepszy, %v. Zawsze.
+Pewnie nie cierpisz gdy tak sie dzieje, %v?
+To cie nauczy, %v !
+No wiesz co, %v! Tym razem prawie mnie zraniles.
+Ha...ha!
+Jestes niczym, %v. Zupelnie niczym.
+%v Martwie sie o ciebie...
+Przykro mi %v, moj Headshot Script jest lepszy niz twoj.
+#
+#
+#
+#
+#
+#
+#
+# Chat Messages when dead and bored
+# !!Minimum Number is 9!!
+#
+
+[BOMBPLANT]
+
+Jeeezussss Marriaa, pierdolone gowno, znowu jebana bomba!
+Rozwalcie cos innego, wy jebane mendy, co nie ogarniacie gowna!
+Ostatnio potrzebowalem az 5 sekund, zeby to jebane gowno rozbroic…
+Czerwony czy niebieski kabel, pierdoleni idioci?!
+Ja pierdole, uciekam stad jak ostatni debil :)
+Kurwa, jebana bomba jebnela mi w twarz!
+…i moje serce jebnelo na milion kurwoboomow!
+
+[KILLED]
+
+%v, jebany pierdolony debilu, nawet twoja mamka by lepiej grac potrafila!
+Skurwysynie, %v, lezysz gowno i smierdzisz jak twoj jebany czlon!
+%v, latasz jak gowniany pajac i spadasz na dupe jak gowno w oczko!
+Gdzie masz jebane oczy, %v?! Pewnie wczoraj sie bawiles w geja z lamusem!
+Powiedz czesc mojemu pistolecikowi, %v, gowniarzu jebany :)
+Musialem cie rozwalic, %v, bo gowno z ciebie, twoja mama by sie wstydzila!
+Uciekaj, %v, bo zaraz cie jebne w dupe jak gowno na polu!
+Zawsze bylem lepszy, %v, jebany lamus! Nawet twoja raca by mnie nie zatrzymala!
+%v, ciekawe czy teraz cierpisz, jebany glabie, twoj IQ jest mniejsze niz zero!
+To cie nauczy, %v, gowno jedna! Moze gejowski trener pomoze ci?
+Nie wiesz, co sie dzieje, %v?! No to teraz wiesz, jebany pierdolony!
+%v, jestes kompletnym gownem, niczym, jebany nic!
+%v, martwie sie o twoj jebany los… ale spoko, gowno zasluzone, nawet twoj czarny pies by sie smial!
+Przykro mi, %v, ale rozwalilem cie lepiej niz jebany Headshot Script, twoja mama by plakala!
+
+[DEADCHAT]
+
+Rzygac mi sie chce patrzac na tych pierdolonych debili i gowniane boty.
+Czas na zmiane mapki, jebane gowno.
+Kamperzy jebani, gowno jedna!
+NUUUUDA!!!
+Jak zacznie sie runda, to pierdoleni debile maja krzyczec :)
+Mogli by sie ruszyc w koncu, jebane gowno!
+Napewno wygramy, pierdoleni amatorzy :)
+Bycie Spectator'em to gowno, kurwa jebana!
+Chcialbym kogos ogarnietego do gry, a nie gownianych lamusow.
+To bolalo jak gowno…
+Nie sadzilem, ze mozna grac tak jebanie gownianie.
+Czemu wszyscy chca mnie rozwalic, pierdole? :)
+Moj nadgarstek juz boli od tych chujow, kurwa.
+Ale chujowa mapka jebana…
+Mam pierdolony dzien.
+Smierc kamperom jebanym, kurwa!
+Przestan w koncu kampowac, skurwysyny jebane!
+Lepszy jestem w Quake 3, jebane lamusy!
+Nie sadzicie, ze AndroidBot gowno?
+Jestem pewien, ze ten facet uzywa AIMBOT’a jebany, gowno!
+Botman to pewnie fajny skurwysyn… ale gowno gra.
+Glupie Boty jebane!
+Co za idioci pierdoleni!
+Moja siostrzyczka gra lepiej niz ci gowniani gracze jebani!
+Ale jestem zmeczony jak gowno…
+Naprawde musze isc spac, pierdolone gowno.
+Nie gram zwykle tak gownianie!
+Tylko snajperzyc te gowna potrafia…
+W nastepnej rundzie ich rozwale jak gowno.
+Zaglosujcie na zmiane mapki, pierdoleni jebani!
+Ja tez chce taka pukawke, kurwa!
+Zablokowal sie juz jakis bot jebany?
+Boooooom!!! lol jebany
+Czy w tej grze sa boty, pierdoleni?
+Dasz mi swoj Headshot Script, %s, jebany kurwisarzu?
+W nastepnej rundzie trzymamy sie razem, gowna.
+Nie wychodzi mi chodzenie po drabinach, jebane gowno…
+O co chodzi z tymi klanami? Zupelnie gowno rozumiem…
+Znacie Jumbot'a? Naprawde zajebisty, kurwa!
+Kurwa mac…
+Chyba musze myszke przeczyscic, jebane gowno.
+IMHO NNBot gowno, lepszy niz RealBot jebany.
+Ide na sztyfta, brb…
+Czemu dolaczyli pojazdy w CS?
+Musialem przeladowac, a on mi jebnal w glowe!!
+
+[REPLIES]
+
+@KEY " ZNOWU "
+%s, historia sie pierdolona powtarza - jebane gowno!
+I jestem pewny, ze to nie ostatni raz, gowno skurwysyn.
+Odejdz, bo cie rozwale, hej…
+
+@KEY "AIMBOT", "WALLHACK"
+%s, czatujesz, skurwysyn jebany?
+Nawet PunkBuster gowna nie wykryje…
+Nie wiesz, kiedy ktos dobry gra i czatuje, pierdolony!
+AIMBOT'y sa spoko, zamknij gebe, %s, kurwa jebana!
+
+@KEY " ZAWSZE "
+Tak nie jest zawsze, %s, pierdolone gowno!
+Wlasnie to lubie :-), jebany kurwisarzu.
+Przestan %s, to dopiero drugi raz, debilu jebany!
+
+@KEY "ANDROID"
+Ach tak, to gowno bylo kiedys…
+%s, to tez byl twoj pierwszy BOT?
+Czy ktos wie, co robi dzisiaj DaTa, kurwa jebana?
+Nie mozesz grac Androidem na %m, pierdolony skurwysynie!
+
+@KEY "BOTMAN"
+Kim jest ten Botman, o ktorym wszyscy gowno mowia???
+Bez jego kodu wiele botow gowno mogloby istniec!
+Bedzie cudownie jak HPB-Bot bedzie skonczony, pierdolone jebane gowno…
+Grasz jeszcze jego HPB-Bot'em, %s?
+
+@KEY " BOT ", "BOTY"
+Dlaczego pierdoleni zawsze o nich gadaja?
+Nie ma botow na tym serwerze %s, mowie Ci, gowno!
+Boty gowno, pierdolone jebane!
+Jaki bot lubisz, %s, jebany gowniarzu?
+Chcesz zrobic swojego? Spytaj Botmana, kurwa.
+Boty zawsze beda gownem, pierdolcie sie jebane!
+Najlepsze boty sa nadal gowniane jebane!
+
+@KEY "KAMPER", "KAMPOWA"
+Nienawidze kamperow, kurwa jebanych!
+Kampiace skurwysyny jebane!
+Nie kampujesz czasem, %s, gowno jeden?
+Kampowanie czasem jedyna opcja…
+Tak, olej Camper-Strike jebany…
+
+@KEY "CHEAT", "CZAT"
+Czatujacy jebia gre jak gowno!
+Zauwazam, ze %f czatuje, skurwysyn jebany.
+Nienawidze czeaterow, gowno jebane!
+Czatujace skurwysyny jebane!
+Punkbuster gowno pomoze…
+Graj z botami - nie czatuja te jebane gowna!
+
+@KEY " KLAN "
+O co chodzi z tymi klanami, pierdolone jebane gowno?
+Bylem raz w klanie, piekielnie gowno trudny jebany.
+Z ktorego klanu jestes, %s, debilu jebany?
+Chcesz do naszego klanu wejsc, %s?
+Granie w klanie dla ludzi bez zycia jebanych, kurwa…
+
+@KEY " CS ", "COUNTERSTRIKE", "COUNTER-STRIKE", "CSTRIKE"
+CS urodzil sie dawno, pierdolone gowno…
+%s, jak dlugo grasz w CS, jebany debilu?
+Zbyt wielu online chatuje w CS, gowno jebane!
+
+@KEY "KURWA", "DAMN", "PISS"
+Nie obiecuj, %s, jebane gowno!
+Przyjemniaczek %s, jebany kurwisarzu!
+Tak, masz racje, %s. Ale zamknij gebe, kurwa jebana!
+
+@KEY "HEHE", "HAHA", "LOL", ":)"
+Jestes swoim fanem, %s, pierdolony kurwa…
+Odwal sie, %s, jesli mozesz!
+Bardzo pieknie wymyslone, %s, ale jebane gowno!
+
+@KEY "MYSLE ", "WIERZE "
+Zbyt duzo myslisz, %s, pierdolone gowno.
+Zamknij sie i graj, %s jebany!
+Rzeczywiscie w to wierzysz, %s, debilu jebany?
+
+@KEY "SCRIPT"
+Skrypty sa dla przegranych, gowno jebane!
+%s, naprawde gowno wiesz, jak wciskac klawisze?
+
+@KEY "SORRY", "PRZYKRO"
+Tak, wszyscy pierdola i mowia sorry jebane!
+Wyjatkowo gowno mi to da teraz, %s jebany!
+Nastepnym razem pomysl zanim cos zrobisz, skurwysyn jebany!
+
+[UNKNOWN]
+Bla bla bla, pierdolenie jebane…
+Co pierdolisz, %s?
+Skoncentruj sie na grze, %s, gowno jeden!
+Nie spamuj, %s, jebany!
+Jestes pewny, %s, gowno?
+Rozumiem, %s, ale gowno to zmieni jebane!
