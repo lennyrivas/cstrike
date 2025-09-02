@@ -1,0 +1,11 @@
+# Игнорируем папки
+addons/
+cl_dlls/
+dlls/
+logs/
+manual/
+iga_static/
+
+# Игнорируем конфиги и ini
+*.ini
+*.cfg
