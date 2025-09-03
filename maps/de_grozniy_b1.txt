@@ -1,0 +1,17 @@
+GROZNIY CITY (BETA1) - Bomb/Defuse
+by BuZZeR (buzzerman@yandex.ru)
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the old bus with weapon
+crates.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the bus with
+weapon crates. 
+
+Other Notes: There are 2 bomb sites
+in the mission.
+
+Other Notes: MADE IN RUSSIA!
+
+(Press FIRE to continue)
