@@ -1,0 +1,10 @@
+gfx/env/TrainYardUp.tga
+gfx/env/TrainYardRt.tga
+gfx/env/TrainYardLf.tga
+gfx/env/TrainYardFt.tga
+gfx/env/TrainYardDn.tga
+gfx/env/TrainYardBk.tga
+maps/de_dust2x2_unlimited.txt
+maps/de_dust2x2_unlimited.res
+overviews/de_dust2x2_unlimited.txt
+overviews/de_dust2x2_unlimited.bmp

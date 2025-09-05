@@ -1,0 +1,33 @@
+CSS_DUST2X2 (Bomb/Defuse)
+
+Map created by Tatu Eugen - www.tatueugen.info
+
+This map is a remake from de_dust2 of CS: Source game,
+map is recreated with all buildings, and some stuff from css,
+keep some things from original de_dust2 of CS: 1.6
+
+Any ideas and bugs please report at mail adress:
+contact@tatueugen.info
+
+Counter-Terrorists: Prevent Terrorists
+from bombing crates.
+Team members must defuse any bombs
+that threaten targeted area.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy the bomb site.
+
+Other Notes: There are 1 bomb site
+in the mission.
+
+Textures:
+Valve (CS:S Game)
+Tatu Eugen
+
+Original Dust2 Author:
+DaveJ (http://www.johnsto.co.uk/)
+
+---
+
+Have Fun
+www.tatueugen.info

@@ -1,0 +1,14 @@
+// overview description file for fy_inferno2013.bsp
+
+global 
+{
+	ZOOM	2.38
+	ORIGIN	1096	214.50	226.50
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/fy_inferno2013.bmp"
+	HEIGHT	-209
+}

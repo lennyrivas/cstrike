@@ -1,0 +1,10 @@
+sg_destroy_all - Shotgun Mode (XM1014 and pistols only)
+
+Created by -=$|TAGAMTAM|$=- (http://gamebanana.com/members/1388278)
+created with WorldCraft-Online (http://www.worldcraft-online.com/)
+
+Counter-Terrorists: Eliminate all Terrorist with an XM1014 Shotgun and take the WIN
+
+Terrorists: Eliminate all CT with an XM1014 Shotgunn and take the WIN
+
+Other Notes: There are breakable walls and crates in the game

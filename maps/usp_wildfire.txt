@@ -1,0 +1,25 @@
+usp_wildfire
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+Autor: Negan (Los Salvadores)
+Fecha De Creacion: 03/07/2019
+Programa Utilizado: Valve Hammer Editor 3.5
+Compilador: Batch Compiler
+Servidores: Publico - Mapa Frutas
+Categoria: Combate con USP .45
+Cantidad De Jugadores Max.: 16 Slots
+Contiene:
+
+*Chalecos Kevlar
+*Explosivo C4 (Atentos los Anti-Terroristas / Counter-Terrorist)
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+Nos encontramos en un area alejada de las ciudades, donde un grupo terrorista de dudosa
+procedencia organizativa han creado un poderoso explosivo c4 con el cual planean realizar
+numerosos atentados en toda la region. 
+La mision consiste en capturar el explosivo y eliminar a todos los miembros de la organizacion
+terrorista (CT - AT). 
+A pesar de que las fuerzas del orden rodearon el perimetro, su unica oportunidad es abrirse paso
+por la puerta de salida. Para eso, deberan detonar el explosivo C4 que tienen en manos (T - TT). 
