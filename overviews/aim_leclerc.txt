@@ -1,0 +1,14 @@
+// overview description file for aim_leclerc.bsp
+
+global 
+{
+	ZOOM	1.45
+	ORIGIN	0.00 	0.00	  640.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/aim_leclerc.bmp"
+	HEIGHT	-129.00
+}
