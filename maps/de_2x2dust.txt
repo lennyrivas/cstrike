@@ -1,0 +1,19 @@
+2x2 Dust - Defusion
+by Koshey (koshey@nm.ru)
+Texture builds by Valve software
+
+== Max Players              : 10 (5 on 5) ==
+== Recomended Players: 4  (2 on 2) ==
+
+Terrorist are attempting to blow up door
+on bridge or chemical weapon crates.
+
+Counter-Terrorists: Prevent the terrorists
+from destroying one of the targets.
+
+Terrorists: Destroy one of the targets.
+
+Other Notes: There are 2 bomb sites in this 
+mission. 
+
+(Press FIRE to continue)
