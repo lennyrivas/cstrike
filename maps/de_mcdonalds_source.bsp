@@ -1,0 +1,14 @@
+import os
+import zlib
+
+folder = r"D:\Desktop\Games\cs 1.6\cs\server\strikezpublic2\Cs-Strikez [Public_2011v2]\cstrike\sound\radio_new"
+output_file = r"D:\Desktop\Games\cs 1.6\cs\server\strikezpublic2\Cs-Strikez [Public_2011v2]\cstrike\addons\amxmodx\configs\downloads.ini"
+
+with open(output_file, "w") as f:
+    for file in os.listdir(folder):
+        if file.endswith(".wav"):
+            path = os.path.join(folder, file)
+            with open(path, "rb") as wf:
+                data = wf.read()
+                crc = zlib.crc32(data) & 0xFFFFFFFF
+                f.write(f"sound/radio/{file} crc32={crc:08X}\n")
